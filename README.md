@@ -2,12 +2,13 @@
 
 # Build from scratch
 
-Requirements
-CMake 3.16
-Ninja
-Windows SDK
+## Requirements
+- CMake 3.16
+- Ninja
+- Windows SDK
 
-Run build.bat
+## Build
+- Run build.bat
 
 # Prebuilt
 
