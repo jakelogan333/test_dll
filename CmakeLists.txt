@@ -1,0 +1,7 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 3.16)
+project(test_dll)
+
+add_library(${CMAKE_PROJECT_NAME}
+    SHARED
+    src/test_dll.c
+)
